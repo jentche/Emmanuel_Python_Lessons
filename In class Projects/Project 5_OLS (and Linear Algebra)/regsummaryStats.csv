@@ -1,0 +1,149 @@
+GDP per Capita,"          Estimation Statistics
+r**2               5.070126e-01
+adj r**2           4.952748e-01
+f-stat             4.319488e+01
+Est Var            2.351435e+08
+rootMSE            1.533439e+04
+SSE                3.950411e+10
+SSR                4.062798e+10
+SST                8.013209e+10
+Obs.               1.730000e+02
+DOF                1.680000e+02","                           Coefficient           SE    t-stat  p-value  \
+y = GDP per Capita (PPP)                                                 
+Trade Freedom                60.470390   157.893803  0.382981  0.70221   
+Property Rights             805.636858    87.701595  9.186114  0.00000   
+Inflation (%)               215.427091   117.099319  1.839696  0.06757   
+Public Debt (% of GDP)      -89.620453    36.223432 -2.474102  0.01434   
+Constant                 -24027.120224  9960.453748 -2.412252  0.01692   
+
+                         signficance  
+y = GDP per Capita (PPP)              
+Trade Freedom                         
+Property Rights                  ***  
+Inflation (%)                         
+Public Debt (% of GDP)             *  
+Constant                           *  ","                        Trade Freedom  Property Rights  Inflation (%)  \
+Trade Freedom            2.493045e+04     -9428.587294      -7.911424   
+Property Rights         -9.428587e+03      7691.569780    2454.380917   
+Inflation (%)           -7.911424e+00      2454.380917   13712.250604   
+Public Debt (% of GDP)   7.468192e+02      -710.288113    -100.255941   
+Constant                -1.441626e+06    336864.584639 -183672.106930   
+
+                        Public Debt (% of GDP)      Constant  
+Trade Freedom                       746.819189 -1.441626e+06  
+Property Rights                    -710.288113  3.368646e+05  
+Inflation (%)                      -100.255941 -1.836721e+05  
+Public Debt (% of GDP)             1312.137019 -8.981082e+04  
+Constant                         -89810.818777  9.921064e+07  ","                   World Rank  Region Rank  2017 Score  Property Rights  \
+Country Name                                                              
+Afghanistan             163.0         40.0   48.885716        12.600000   
+Albania                  65.0         30.0   64.353003        54.013250   
+Algeria                 172.0         14.0   46.528581        38.200000   
+Angola                  165.0         41.0   48.515521        36.400000   
+Argentina               156.0         26.0   50.409088        32.449712   
+...                       ...          ...         ...              ...   
+Venezuela               179.0         32.0   26.961476         6.762875   
+Vietnam                 147.0         35.0   52.437551        49.711775   
+Zambia                  122.0         23.0   55.799426        49.618581   
+Zimbabwe                175.0         45.0   44.049860        27.334711   
+Brunei Darussalam        35.0          9.0   69.771510        62.500000   
+
+                   Judicial Effectiveness  Government Integrity  Tax Burden  \
+Country Name                                                                  
+Afghanistan                     28.400000             27.500000   91.577500   
+Albania                         28.473312             39.707367   86.890400   
+Algeria                         29.631083             31.700000   81.091100   
+Angola                          19.800000             12.800000   87.687500   
+Argentina                       39.580063             38.193866   62.611900   
+...                                   ...                   ...         ...   
+Venezuela                       10.256410             11.590788   72.511900   
+Vietnam                         32.025118             24.648981   79.597600   
+Zambia                          39.841706             35.001645   73.105211   
+Zimbabwe                        26.138148             14.653662   61.077100   
+Brunei Darussalam               39.900000             40.900000   85.600000   
+
+                   Gov't Spending  Fiscal Health  Business Freedom  ...  \
+Country Name                                                        ...   
+Afghanistan             79.877254      97.338404              54.2  ...   
+Albania                 72.499704      51.540942              79.3  ...   
+Algeria                 50.955175      19.847749              62.1  ...   
+Angola                  58.649804      70.743538              58.5  ...   
+Argentina               54.638703      56.411450              57.3  ...   
+...                           ...            ...               ...  ...   
+Venezuela               51.537290      15.241804              39.7  ...   
+Vietnam                 74.647472      21.108705              61.2  ...   
+Zambia                  81.607282      21.571985              66.6  ...   
+Zimbabwe                75.214624      90.600880              36.2  ...   
+Brunei Darussalam       61.207071      99.980953              76.6  ...   
+
+                   GDP (Billions, PPP)  GDP Growth Rate (%)  \
+Country Name                                                  
+Afghanistan                       62.3                  1.5   
+Albania                           32.7                  2.6   
+Algeria                          578.7                  3.7   
+Angola                           184.4                  3.0   
+Argentina                        972.0                  1.2   
+...                                ...                  ...   
+Venezuela                        515.7                 -5.7   
+Vietnam                          552.3                  6.7   
+Zambia                            62.7                  3.6   
+Zimbabwe                          28.1                  1.5   
+Brunei Darussalam                 33.2                 -0.2   
+
+                   5 Year GDP Growth Rate (%)  GDP per Capita (PPP)  \
+Country Name                                                          
+Afghanistan                               5.4                1947.0   
+Albania                                   1.9               11300.8   
+Algeria                                   3.3               14503.9   
+Angola                                    4.7                7343.8   
+Argentina                                 2.7               22553.6   
+...                                       ...                   ...   
+Venezuela                                 0.3               16672.7   
+Vietnam                                   5.9                6024.4   
+Zambia                                    5.4                3868.1   
+Zimbabwe                                  6.5                2096.2   
+Brunei Darussalam                         0.0               79587.0   
+
+                   Unemployment (%)  Inflation (%)  FDI Inflow (Millions)  \
+Country Name                                                                
+Afghanistan                     9.6           -1.5                   58.0   
+Albania                        17.3            1.9                 1003.3   
+Algeria                        10.5            4.8                 -587.3   
+Angola                          7.6           10.3                 8680.9   
+Argentina                       6.7           26.5                11654.9   
+...                             ...            ...                    ...   
+Venezuela                       8.0          121.7                 1591.0   
+Vietnam                         2.1            0.6                11800.0   
+Zambia                         10.7           10.1                 1653.0   
+Zimbabwe                        9.3           -2.4                  421.0   
+Brunei Darussalam               1.9           -0.4                  173.2   
+
+                   Public Debt (% of GDP)  Constant  \
+Country Name                                          
+Afghanistan                           6.8         1   
+Albania                              71.9         1   
+Algeria                               8.7         1   
+Angola                               62.3         1   
+Argentina                            56.5         1   
+...                                   ...       ...   
+Venezuela                            48.8         1   
+Vietnam                              59.3         1   
+Zambia                               52.9         1   
+Zimbabwe                             53.0         1   
+Brunei Darussalam                     3.1         1   
+
+                   GDP per Capita (PPP)estimator  
+Country Name                                      
+Afghanistan                        -10820.028616  
+Albania                             18758.008463  
+Algeria                             10830.335535  
+Angola                               5359.858538  
+Argentina                            6796.620044  
+...                                          ...  
+Venezuela                            6933.433816  
+Vietnam                             15864.789668  
+Zambia                              18117.160670  
+Zimbabwe                            -4079.341759  
+Brunei Darussalam                   31347.891504  
+
+[172 rows x 31 columns]"
