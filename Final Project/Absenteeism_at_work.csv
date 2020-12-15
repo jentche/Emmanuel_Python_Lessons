@@ -1,0 +1,738 @@
+Reason,Justified_Absence,Month,Day,Season,Trans expense,DFRW,ST,Age,WLA,Education,Children,Social drinker,Social smoker,Pet,Weight,Height,BMI,AT
+Patient Follow-up,Justified,Jul,Mon,Summer,235,11,14,37,239554,master/PhD,1,0,0,1,88,172,29,8
+Unjustified Absence,Unjustified,Jul,Tue,Summer,118,13,18,50,239554,high school,1,1,0,0,98,178,31,0
+Medical Consultation,Justified,Aug,Thur,Summer,235,11,14,37,205917,postgraduate,1,0,0,1,88,172,29,4
+Unjustified Absence,Unjustified,Dec,Wed,Spring,235,11,14,37,261306,postgraduate,1,0,0,1,88,172,29,8
+Disease,Justified,Apr,Fri,Winter,235,11,14,37,326452,postgraduate,1,0,0,1,88,172,29,3
+Disease,Justified,June,Fri,Winter,235,11,14,37,377550,postgraduate,1,0,0,1,88,172,29,16
+Medical Consultation,Justified,Aug,Tue,Summer,235,11,14,37,265615,postgraduate,1,0,0,1,88,172,29,1
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Aug,Thur,Summer,235,11,14,37,265615,postgraduate,1,0,0,1,88,172,29,8
+Unjustified Absence,Unjustified,Oct,Mon,Spring,235,11,14,37,265017,postgraduate,1,0,0,1,88,172,29,4
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Nov,Wed,Spring,235,11,14,37,284031,postgraduate,1,0,0,1,88,172,29,1
+Lab examination,Justified,Nov,Thur,Spring,235,11,14,37,284031,postgraduate,1,0,0,1,88,172,29,2
+Medical Consultation,Justified,Dec,Mon,Spring,235,11,14,37,236629,postgraduate,1,0,0,1,88,172,29,3
+Lab examination,Justified,Dec,Thur,Spring,235,11,14,37,236629,postgraduate,1,0,0,1,88,172,29,2
+Disease,Justified,Dec,Tue,Fall,235,11,14,37,236629,postgraduate,1,0,0,1,88,172,29,4
+Disease,Justified,Jan,Tue,Fall,235,11,14,37,330061,postgraduate,1,0,0,1,88,172,29,1
+Patient Follow-up,Justified,Mar,Mon,Fall,235,11,14,37,244387,postgraduate,1,0,0,1,88,172,29,8
+Disease,Justified,Mar,Thur,Fall,235,11,14,37,244387,postgraduate,1,0,0,1,88,172,29,8
+Disease,Justified,May,Mon,Winter,235,11,14,37,246074,postgraduate,1,0,0,1,88,172,29,8
+Disease,Justified,June,Tue,Summer,235,11,14,37,253957,postgraduate,1,0,0,1,88,172,29,8
+Medical Consultation,Justified,Aug,Tue,Summer,235,11,14,37,249797,postgraduate,1,0,0,1,88,172,29,4
+Patient Follow-up,Justified,Apr,Fri,Winter,235,11,14,37,246288,postgraduate,1,0,0,1,88,172,29,8
+Patient Follow-up,Justified,May,Mon,Winter,235,11,14,37,237656,postgraduate,1,0,0,1,88,172,29,8
+Disease,Justified,Jul,Tue,Summer,235,11,14,37,264604,postgraduate,1,0,0,1,88,172,29,4
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Aug,Thur,Summer,235,29,12,48,205917,high school,1,0,1,5,88,163,33,8
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Aug,Mon,Summer,235,29,12,48,205917,high school,1,0,1,5,88,163,33,8
+Dental Consultation,Justified,Aug,Fri,Summer,235,29,12,48,205917,high school,1,0,1,5,88,163,33,8
+Medical Consultation,Justified,Jul,Mon,Summer,235,29,12,48,230290,high school,1,0,1,5,88,163,33,1
+Medical Consultation,Justified,Jul,Wed,Summer,179,51,18,38,239554,high school,0,1,0,0,89,170,31,2
+Medical Consultation,Justified,Jul,Fri,Summer,179,51,18,38,239554,high school,0,1,0,0,89,170,31,2
+Disease,Justified,Jul,Wed,Summer,179,51,18,38,239554,high school,0,1,0,0,89,170,31,1
+Medical Consultation,Justified,Jul,Wed,Summer,179,51,18,38,239554,high school,0,1,0,0,89,170,31,4
+Medical Consultation,Justified,Jul,Fri,Summer,179,51,18,38,239554,high school,0,1,0,0,89,170,31,2
+Disease,Justified,Jul,Mon,Summer,179,51,18,38,239554,high school,0,1,0,0,89,170,31,8
+Disease,Justified,Aug,Mon,Summer,179,51,18,38,205917,high school,0,1,0,0,89,170,31,1
+Medical Consultation,Justified,Aug,Fri,Summer,179,51,18,38,205917,high school,0,1,0,0,89,170,31,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Aug,Mon,Summer,179,51,18,38,205917,high school,0,1,0,0,89,170,31,8
+Medical Consultation,Justified,Aug,Mon,Summer,179,51,18,38,205917,high school,0,1,0,0,89,170,31,2
+Medical Consultation,Justified,Sept,Tue,Summer,179,51,18,38,241476,high school,0,1,0,0,89,170,31,4
+Medical Consultation,Justified,Sept,Tue,Summer,179,51,18,38,241476,high school,0,1,0,0,89,170,31,3
+Medical Consultation,Justified,Sept,Wed,Spring,179,51,18,38,241476,high school,0,1,0,0,89,170,31,3
+Medical Consultation,Justified,Sept,Fri,Spring,179,51,18,38,241476,high school,0,1,0,0,89,170,31,3
+Medical Consultation,Justified,Oct,Tue,Spring,179,51,18,38,253465,high school,0,1,0,0,89,170,31,3
+Medical Consultation,Justified,Oct,Fri,Spring,179,51,18,38,253465,high school,0,1,0,0,89,170,31,3
+Medical Consultation,Justified,Oct,Wed,Spring,179,51,18,38,253465,high school,0,1,0,0,89,170,31,8
+Medical Consultation,Justified,Nov,Thur,Spring,179,51,18,38,306345,high school,0,1,0,0,89,170,31,1
+Disease,Justified,Nov,Thur,Spring,179,51,18,38,306345,high school,0,1,0,0,89,170,31,8
+Disease,Justified,Feb,Wed,Fall,179,51,18,38,302585,high school,0,1,0,0,89,170,31,8
+Disease,Justified,Mar,Tue,Fall,179,51,18,38,343253,high school,0,1,0,0,89,170,31,24
+Disease,Justified,Mar,Wed,Winter,179,51,18,38,343253,high school,0,1,0,0,89,170,31,3
+Disease,Justified,Apr,Wed,Winter,179,51,18,38,326452,high school,0,1,0,0,89,170,31,24
+Unjustified Absence,Unjustified,Sept,Mon,Spring,260,50,11,36,241476,high school,4,1,0,0,65,168,23,0
+Unjustified Absence,Unjustified,Sept,Mon,Spring,225,26,9,28,241476,high school,1,0,0,2,69,169,24,0
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,May,Tue,Winter,179,51,18,38,378884,high school,0,1,0,0,89,170,31,8
+Disease,Justified,May,Tue,Winter,179,51,18,38,378884,high school,0,1,0,0,89,170,31,1
+Unjustified Absence,Unjustified,Sept,Tue,Spring,289,36,13,33,241476,high school,2,1,0,1,90,172,30,0
+Unjustified Absence,Unjustified,Sept,Tue,Spring,118,13,18,50,241476,high school,1,1,0,0,98,178,31,0
+Disease,Justified,May,Tue,Winter,179,51,18,38,378884,high school,0,1,0,0,89,170,31,1
+Disease,Justified,June,Mon,Winter,179,51,18,38,377550,high school,0,1,0,0,89,170,31,8
+Unjustified Absence,Unjustified,Sept,Wed,Spring,369,17,12,31,241476,high school,3,1,0,0,70,169,25,0
+Disease,Justified,June,Fri,Winter,179,51,18,38,377550,high school,0,1,0,0,89,170,31,2
+Unjustified Absence,Unjustified,Jul,Thur,Summer,179,51,18,38,275312,high school,0,1,0,0,89,170,31,8
+Disease,Justified,Sept,Mon,Summer,179,51,18,38,294217,high school,0,1,0,0,89,170,31,8
+Medical Consultation,Justified,Sept,Fri,Summer,179,51,18,38,294217,high school,0,1,0,0,89,170,31,3
+Disease,Justified,Sept,Wed,Summer,179,51,18,38,294217,high school,0,1,0,0,89,170,31,8
+Unjustified Absence,Unjustified,Oct,Wed,Spring,118,13,18,50,253465,high school,1,1,0,0,98,178,31,0
+Medical Consultation,Justified,Sept,Thur,Summer,179,51,18,38,294217,high school,0,1,0,0,89,170,31,1
+Disease,Justified,Sept,Mon,Spring,179,51,18,38,294217,high school,0,1,0,0,89,170,31,8
+Dental Consultation,Justified,Oct,Wed,Spring,179,51,18,38,265017,high school,0,1,0,0,89,170,31,1
+Disease,Justified,Nov,Tue,Spring,179,51,18,38,284031,high school,0,1,0,0,89,170,31,8
+Dental Consultation,Justified,Nov,Thur,Spring,179,51,18,38,284031,high school,0,1,0,0,89,170,31,3
+Dental Consultation,Justified,Nov,Tue,Spring,179,51,18,38,284031,high school,0,1,0,0,89,170,31,1
+Medical Consultation,Justified,Nov,Thur,Spring,179,51,18,38,284031,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Dec,Mon,Spring,179,51,18,38,236629,high school,0,1,0,0,89,170,31,2
+Dental Consultation,Justified,Dec,Mon,Spring,179,51,18,38,236629,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Dec,Thur,Spring,179,51,18,38,236629,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Dec,Fri,Spring,179,51,18,38,236629,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Dec,Fri,Spring,179,51,18,38,236629,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Dec,Mon,Fall,179,51,18,38,236629,high school,0,1,0,0,89,170,31,3
+Dental Consultation,Justified,Jan,Wed,Fall,179,51,18,38,330061,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Jan,Fri,Fall,179,51,18,38,330061,high school,0,1,0,0,89,170,31,1
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Medical Consultation,Justified,Feb,Fri,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Mon,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Disease,Justified,Feb,Thur,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,8
+Physiotherapy,Justified,Feb,Fri,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Mon,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Fri,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Fri,Fall,179,51,18,38,251818,high school,0,1,0,0,89,170,31,3
+Dental Consultation,Justified,Mar,Mon,Fall,179,51,18,38,244387,high school,0,1,0,0,89,170,31,2
+Dental Consultation,Justified,Mar,Mon,Fall,179,51,18,38,244387,high school,0,1,0,0,89,170,31,16
+Dental Consultation,Justified,Mar,Fri,Winter,179,51,18,38,244387,high school,0,1,0,0,89,170,31,8
+Dental Consultation,Justified,Apr,Wed,Winter,179,51,18,38,239409,high school,0,1,0,0,89,170,31,4
+Dental Consultation,Justified,Apr,Wed,Winter,179,51,18,38,239409,high school,0,1,0,0,89,170,31,8
+Dental Consultation,Justified,Apr,Mon,Winter,179,51,18,38,239409,high school,0,1,0,0,89,170,31,4
+Dental Consultation,Justified,May,Wed,Winter,179,51,18,38,246074,high school,0,1,0,0,89,170,31,4
+Dental Consultation,Justified,June,Mon,Winter,179,51,18,38,253957,high school,0,1,0,0,89,170,31,3
+Dental Consultation,Justified,June,Mon,Winter,179,51,18,38,253957,high school,0,1,0,0,89,170,31,24
+Dental Consultation,Justified,June,Mon,Winter,179,51,18,38,253957,high school,0,1,0,0,89,170,31,4
+Dental Consultation,Justified,June,Mon,Summer,179,51,18,38,253957,high school,0,1,0,0,89,170,31,2
+Mental/Behav.  Disorders,Justified,June,Wed,Summer,179,51,18,38,253957,high school,0,1,0,0,89,170,31,8
+Dental Consultation,Justified,Jul,Tue,Summer,179,51,18,38,230290,high school,0,1,0,0,89,170,31,1
+Lab examination,Justified,Aug,Thur,Summer,179,51,18,38,249797,high school,0,1,0,0,89,170,31,4
+Lab examination,Justified,Aug,Mon,Summer,179,51,18,38,249797,high school,0,1,0,0,89,170,31,4
+Medical Consultation,Justified,Sept,Mon,Summer,179,51,18,38,261756,high school,0,1,0,0,89,170,31,4
+Dental Consultation,Justified,Oct,Wed,Spring,179,51,18,38,284853,high school,0,1,0,0,89,170,31,3
+Disease,Justified,Nov,Tue,Spring,179,51,18,38,268519,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Nov,Fri,Spring,179,51,18,38,268519,high school,0,1,0,0,89,170,31,1
+Dental Consultation,Justified,Nov,Mon,Spring,179,51,18,38,268519,high school,0,1,0,0,89,170,31,1
+Disease,Justified,Dec,Tue,Spring,179,51,18,38,280549,high school,0,1,0,0,89,170,31,32
+Physiotherapy,Justified,Jan,Wed,Fall,179,51,18,38,313532,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Jan,Thur,Fall,179,51,18,38,313532,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Jan,Fri,Fall,179,51,18,38,313532,high school,0,1,0,0,89,170,31,2
+Disease,Justified,Feb,Tue,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,8
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Thur,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Fri,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Mon,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Thur,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Fri,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Disease,Justified,Feb,Thur,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,8
+Physiotherapy,Justified,Feb,Fri,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Mon,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Tue,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Wed,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Feb,Thur,Fall,179,51,18,38,264249,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Mar,Mon,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Mar,Wed,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Mar,Thur,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Disease,Justified,Mar,Tue,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,8
+Physiotherapy,Justified,Mar,Wed,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Mar,Thur,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Disease,Justified,Mar,Mon,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,4
+Physiotherapy,Justified,Mar,Mon,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Mar,Tue,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Mar,Wed,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,2
+Physiotherapy,Justified,Mar,Thur,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Mar,Fri,Fall,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Mar,Tue,Winter,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Mar,Wed,Winter,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+Physiotherapy,Justified,Mar,Thur,Winter,179,51,18,38,222196,high school,0,1,0,0,89,170,31,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Sept,Tue,Summer,235,20,13,43,241476,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,Sept,Wed,Spring,235,20,13,43,294217,high school,1,1,0,0,106,167,38,8
+Medical Consultation,Justified,Oct,Mon,Spring,235,20,13,43,265017,high school,1,1,0,0,106,167,38,2
+Medical Consultation,Justified,Oct,Mon,Spring,235,20,13,43,265017,high school,1,1,0,0,106,167,38,2
+Unjustified Absence,Unjustified,Nov,Mon,Spring,235,20,13,43,284031,high school,1,1,0,0,106,167,38,8
+Disease,Justified,Dec,Tue,Fall,235,20,13,43,236629,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,Jan,Mon,Fall,235,20,13,43,330061,high school,1,1,0,0,106,167,38,8
+Disease,Justified,May,Mon,Winter,235,20,13,43,246074,high school,1,1,0,0,106,167,38,16
+Unjustified Absence,Unjustified,June,Tue,Winter,235,20,13,43,253957,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,Jul,Mon,Summer,235,20,13,43,230290,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,Aug,Tue,Summer,235,20,13,43,249797,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,Dec,Fri,Spring,235,20,13,43,280549,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,May,Wed,Winter,235,20,13,43,237656,high school,1,1,0,0,106,167,38,8
+Unjustified Absence,Unjustified,Jul,Wed,Summer,235,20,13,43,264604,high school,1,1,0,0,106,167,38,4
+Disease,Justified,Jul,Thur,Summer,189,29,13,33,239554,high school,2,0,0,2,69,167,25,8
+Patient Follow-up,Justified,Nov,Mon,Spring,189,29,13,33,306345,high school,2,0,0,2,69,167,25,8
+Medical Consultation,Justified,Feb,Thur,Fall,189,29,13,33,302585,high school,2,0,0,2,69,167,25,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Feb,Thur,Fall,189,29,13,33,302585,high school,2,0,0,2,69,167,25,8
+Patient Follow-up,Justified,Feb,Mon,Fall,189,29,13,33,251818,high school,2,0,0,2,69,167,25,8
+Medical Consultation,Justified,Oct,Mon,Spring,189,29,13,33,284853,high school,2,0,0,2,69,167,25,8
+Disease,Justified,Apr,Thur,Winter,189,29,13,33,246288,high school,2,0,0,2,69,167,25,8
+Patient Follow-up,Justified,Jul,Tue,Summer,189,29,13,33,264604,high school,2,0,0,2,69,167,25,16
+Unjustified Absence,Unjustified,Jul,Thur,Summer,279,5,14,39,239554,high school,2,1,1,0,68,168,24,4
+Disease,Justified,Mar,Mon,Fall,279,5,14,39,343253,high school,2,1,1,0,68,168,24,8
+Disease,Justified,Mar,Thur,Winter,279,5,14,39,343253,high school,2,1,1,0,68,168,24,16
+Medical Consultation,Justified,Jul,Thur,Summer,279,5,14,39,230290,high school,2,1,1,0,68,168,24,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Aug,Tue,Summer,228,14,16,58,265615,high school,2,0,0,1,65,172,22,8
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,May,Wed,Winter,228,14,16,58,246074,high school,2,0,0,1,65,172,22,8
+Disease,Justified,Oct,Wed,Spring,228,14,16,58,284853,high school,2,0,0,1,65,172,22,1
+Lab examination,Justified,Mar,Tue,Fall,228,14,16,58,222196,high school,2,0,0,1,65,172,22,3
+Disease,Justified,Mar,Tue,Fall,228,14,16,58,222196,high school,2,0,0,1,65,172,22,112
+Lab examination,Justified,Mar,Wed,Fall,228,14,16,58,222196,high school,2,0,0,1,65,172,22,2
+Disease,Justified,Jul,Mon,Summer,228,14,16,58,264604,high school,2,0,0,1,65,172,22,8
+Disease,Justified,Jul,Tue,Summer,228,14,16,58,264604,high school,2,0,0,1,65,172,22,120
+Patient Follow-up,Justified,Jul,Fri,Summer,361,52,3,28,239554,high school,1,1,0,4,80,172,27,8
+Disease,Justified,Aug,Mon,Summer,361,52,3,28,205917,high school,1,1,0,4,80,172,27,40
+Lab examination,Justified,Aug,Mon,Summer,361,52,3,28,205917,high school,1,1,0,4,80,172,27,7
+Medical Consultation,Justified,Aug,Mon,Summer,361,52,3,28,205917,high school,1,1,0,4,80,172,27,1
+Medical Consultation,Justified,Oct,Fri,Spring,361,52,3,28,253465,high school,1,1,0,4,80,172,27,1
+Patient Follow-up,Justified,Dec,Wed,Spring,361,52,3,28,261306,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,Dec,Wed,Spring,361,52,3,28,261306,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,May,Fri,Winter,361,52,3,28,378884,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,June,Mon,Winter,361,52,3,28,377550,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,Jul,Tue,Summer,361,52,3,28,275312,high school,1,1,0,4,80,172,27,8
+Disease,Justified,Aug,Tue,Summer,361,52,3,28,265615,high school,1,1,0,4,80,172,27,8
+Disease,Justified,Oct,Mon,Spring,361,52,3,28,265017,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,Mar,Wed,Fall,361,52,3,28,244387,high school,1,1,0,4,80,172,27,8
+Medical Consultation,Justified,May,Thur,Winter,361,52,3,28,246074,high school,1,1,0,4,80,172,27,1
+Patient Follow-up,Justified,Jul,Fri,Summer,361,52,3,28,230290,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,Sept,Tue,Spring,361,52,3,28,261756,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,Nov,Tue,Spring,361,52,3,28,268519,high school,1,1,0,4,80,172,27,8
+Dental Consultation,Justified,Nov,Mon,Spring,361,52,3,28,268519,high school,1,1,0,4,80,172,27,2
+Disease,Justified,Dec,Thur,Spring,361,52,3,28,280549,high school,1,1,0,4,80,172,27,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Mar,Mon,Fall,361,52,3,28,222196,high school,1,1,0,4,80,172,27,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Tue,Winter,361,52,3,28,246288,high school,1,1,0,4,80,172,27,8
+Medical Consultation,Justified,Apr,Tue,Winter,361,52,3,28,246288,high school,1,1,0,4,80,172,27,2
+Unjustified Absence,Unjustified,Apr,Mon,Winter,235,29,12,48,326452,high school,1,0,1,5,88,163,33,0
+Disease,Justified,May,Mon,Winter,361,52,3,28,237656,high school,1,1,0,4,80,172,27,8
+Patient Follow-up,Justified,Jul,Wed,Summer,361,52,3,28,264604,high school,1,1,0,4,80,172,27,8
+Unjustified Absence,Unjustified,Jul,Tue,Summer,289,36,13,33,239554,high school,2,1,0,1,90,172,30,4
+Medical Consultation,Justified,Jul,Thur,Summer,289,36,13,33,239554,high school,2,1,0,1,90,172,30,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Aug,Mon,Summer,289,36,13,33,205917,high school,2,1,0,1,90,172,30,8
+Medical Consultation,Justified,Aug,Tue,Summer,289,36,13,33,205917,high school,2,1,0,1,90,172,30,1
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Aug,Wed,Summer,289,36,13,33,205917,high school,2,1,0,1,90,172,30,8
+Blood donation,Justified,Aug,Tue,Summer,289,36,13,33,205917,high school,2,1,0,1,90,172,30,8
+Unjustified Absence,Unjustified,Oct,Wed,Spring,289,36,13,33,253465,high school,2,1,0,1,90,172,30,8
+Unjustified Absence,Unjustified,May,Wed,Winter,279,5,14,39,378884,high school,2,1,1,0,68,168,24,0
+Unjustified Absence,Unjustified,May,Wed,Winter,330,16,4,28,378884,graduate,0,0,0,0,84,182,25,0
+Unjustified Absence,Unjustified,May,Wed,Winter,378,49,11,36,378884,high school,2,0,1,4,65,174,21,0
+Unjustified Absence,Unjustified,May,Wed,Winter,388,15,9,50,378884,high school,0,0,0,0,76,178,24,0
+Disease,Justified,Nov,Wed,Spring,289,36,13,33,306345,high school,2,1,0,1,90,172,30,24
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Jan,Tue,Fall,289,36,13,33,308593,high school,2,1,0,1,90,172,30,8
+Patient Follow-up,Justified,Jan,Thur,Fall,289,36,13,33,308593,high school,2,1,0,1,90,172,30,3
+Patient Follow-up,Justified,Feb,Fri,Fall,289,36,13,33,302585,high school,2,1,0,1,90,172,30,8
+Disease,Justified,Mar,Thur,Fall,289,36,13,33,343253,high school,2,1,0,1,90,172,30,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Tue,Winter,289,36,13,33,326452,high school,2,1,0,1,90,172,30,8
+Disease,Justified,Apr,Thur,Winter,289,36,13,33,326452,high school,2,1,0,1,90,172,30,16
+Disease,Justified,May,Wed,Winter,289,36,13,33,378884,high school,2,1,0,1,90,172,30,8
+Disease,Justified,May,Wed,Winter,289,36,13,33,378884,high school,2,1,0,1,90,172,30,24
+Unjustified Absence,Unjustified,Jul,Wed,Summer,289,36,13,33,275312,high school,2,1,0,1,90,172,30,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jul,Mon,Summer,289,36,13,33,275312,high school,2,1,0,1,90,172,30,32
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jul,Thur,Summer,289,36,13,33,275312,high school,2,1,0,1,90,172,30,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Aug,Fri,Summer,289,36,13,33,265615,high school,2,1,0,1,90,172,30,8
+Medical Consultation,Justified,Aug,Mon,Summer,289,36,13,33,265615,high school,2,1,0,1,90,172,30,1
+Medical Consultation,Justified,Aug,Tue,Summer,289,36,13,33,265615,high school,2,1,0,1,90,172,30,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Sept,Wed,Summer,289,36,13,33,294217,high school,2,1,0,1,90,172,30,24
+Blood donation,Justified,Oct,Mon,Spring,289,36,13,33,265017,high school,2,1,0,1,90,172,30,8
+Unjustified Absence,Unjustified,Oct,Mon,Spring,289,36,13,33,265017,high school,2,1,0,1,90,172,30,8
+Patient Follow-up,Justified,Oct,Fri,Spring,289,36,13,33,265017,high school,2,1,0,1,90,172,30,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Oct,Thur,Spring,289,36,13,33,265017,high school,2,1,0,1,90,172,30,16
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Dec,Mon,Fall,289,36,13,33,236629,high school,2,1,0,1,90,172,30,8
+Unjustified Absence,Unjustified,Jan,Mon,Fall,289,36,13,33,330061,high school,2,1,0,1,90,172,30,8
+Patient Follow-up,Justified,Feb,Fri,Fall,289,36,13,33,251818,high school,2,1,0,1,90,172,30,3
+Patient Follow-up,Justified,Mar,Fri,Winter,289,36,13,33,244387,high school,2,1,0,1,90,172,30,8
+Patient Follow-up,Justified,Jul,Mon,Summer,289,36,13,33,230290,high school,2,1,0,1,90,172,30,8
+Unjustified Absence,Unjustified,Aug,Tue,Summer,289,36,13,33,249797,high school,2,1,0,1,90,172,30,8
+Blood donation,Justified,Nov,Wed,Spring,289,36,13,33,268519,high school,2,1,0,1,90,172,30,8
+Disease,Justified,Jan,Wed,Fall,289,36,13,33,313532,high school,2,1,0,1,90,172,30,8
+Medical Consultation,Justified,Mar,Wed,Fall,289,36,13,33,222196,high school,2,1,0,1,90,172,30,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Mar,Mon,Winter,289,36,13,33,222196,high school,2,1,0,1,90,172,30,104
+Disease,Justified,Jul,Tue,Summer,289,36,13,33,264604,high school,2,1,0,1,90,172,30,8
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Dec,Mon,Spring,233,51,1,31,280549,graduate,1,1,0,8,68,178,21,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Feb,Mon,Fall,233,51,1,31,264249,graduate,1,1,0,8,68,178,21,2
+Disease,Justified,Feb,Wed,Fall,233,51,1,31,264249,graduate,1,1,0,8,68,178,21,3
+Unjustified Absence,Unjustified,Jul,Thur,Summer,260,50,11,36,275312,high school,4,1,0,0,65,168,23,0
+"Injury, poisoning and certain other consequences of external causes  ",Justified,June,Fri,Winter,233,51,1,31,275089,graduate,1,1,0,8,68,178,21,8
+Patient Follow-up,Justified,June,Thur,Summer,233,51,1,31,275089,graduate,1,1,0,8,68,178,21,8
+Patient Follow-up,Justified,June,Wed,Summer,233,51,1,31,275089,graduate,1,1,0,8,68,178,21,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jul,Fri,Summer,233,51,1,31,264604,graduate,1,1,0,8,68,178,21,2
+Patient Follow-up,Justified,Oct,Mon,Spring,369,17,12,31,265017,high school,3,1,0,0,70,169,25,8
+Patient Follow-up,Justified,Apr,Mon,Winter,369,17,12,31,239409,high school,3,1,0,0,70,169,25,4
+Disease,Justified,May,Mon,Winter,369,17,12,31,246074,high school,3,1,0,0,70,169,25,8
+Medical Consultation,Justified,Sept,Tue,Spring,369,17,12,31,261756,high school,3,1,0,0,70,169,25,8
+Medical Consultation,Justified,Oct,Tue,Spring,369,17,12,31,284853,high school,3,1,0,0,70,169,25,8
+Medical Consultation,Justified,Oct,Tue,Spring,369,17,12,31,284853,high school,3,1,0,0,70,169,25,3
+Unjustified Absence,Unjustified,Oct,Tue,Spring,369,17,12,31,284853,high school,3,1,0,0,70,169,25,8
+Disease,Justified,Oct,Thur,Spring,369,17,12,31,284853,high school,3,1,0,0,70,169,25,8
+Disease,Justified,Oct,Fri,Spring,369,17,12,31,284853,high school,3,1,0,0,70,169,25,8
+Unjustified Absence,Unjustified,Nov,Fri,Spring,369,17,12,31,268519,high school,3,1,0,0,70,169,25,8
+Patient Follow-up,Justified,Mar,Wed,Winter,369,17,12,31,222196,high school,3,1,0,0,70,169,25,8
+Disease,Justified,Apr,Mon,Winter,369,17,12,31,246288,high school,3,1,0,0,70,169,25,24
+Disease,Justified,Jul,Mon,Summer,369,17,12,31,264604,high school,3,1,0,0,70,169,25,80
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jul,Mon,Summer,155,12,14,34,239554,high school,2,1,0,0,95,196,25,40
+Medical Consultation,Justified,Sept,Wed,Summer,155,12,14,34,241476,high school,2,1,0,0,95,196,25,2
+Disease,Justified,Nov,Mon,Spring,155,12,14,34,306345,high school,2,1,0,0,95,196,25,32
+Disease,Justified,Nov,Fri,Spring,155,12,14,34,306345,high school,2,1,0,0,95,196,25,8
+Unjustified Absence,Unjustified,Sept,Thur,Summer,235,20,13,43,294217,high school,1,1,0,0,106,167,38,0
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Jan,Tue,Fall,155,12,14,34,308593,high school,2,1,0,0,95,196,25,8
+Dental Consultation,Justified,Feb,Thur,Fall,155,12,14,34,302585,high school,2,1,0,0,95,196,25,2
+Unjustified Absence,Unjustified,Sept,Tue,Summer,231,35,14,39,294217,high school,2,1,0,2,100,170,35,0
+Unjustified Absence,Unjustified,Sept,Tue,Summer,291,50,12,32,294217,high school,0,1,0,0,65,169,23,0
+Disease,Justified,Mar,Mon,Fall,155,12,14,34,343253,high school,2,1,0,0,95,196,25,16
+Disease,Justified,Mar,Tue,Fall,155,12,14,34,343253,high school,2,1,0,0,95,196,25,8
+Dental Consultation,Justified,Apr,Tue,Winter,155,12,14,34,326452,high school,2,1,0,0,95,196,25,1
+Medical Consultation,Justified,Apr,Thur,Winter,155,12,14,34,326452,high school,2,1,0,0,95,196,25,1
+Disease,Justified,Apr,Wed,Winter,155,12,14,34,326452,high school,2,1,0,0,95,196,25,24
+Dental Consultation,Justified,May,Thur,Winter,155,12,14,34,378884,high school,2,1,0,0,95,196,25,2
+Dental Consultation,Justified,May,Mon,Winter,155,12,14,34,378884,high school,2,1,0,0,95,196,25,1
+Unjustified Absence,Unjustified,Sept,Thur,Spring,235,20,13,43,294217,high school,1,1,0,0,106,167,38,0
+Dental Consultation,Justified,May,Mon,Winter,155,12,14,34,378884,high school,2,1,0,0,95,196,25,2
+Medical Consultation,Justified,June,Mon,Winter,155,12,14,34,377550,high school,2,1,0,0,95,196,25,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jul,Tue,Summer,155,12,14,34,275312,high school,2,1,0,0,95,196,25,16
+Lab examination,Justified,Jul,Fri,Summer,155,12,14,34,275312,high school,2,1,0,0,95,196,25,2
+Disease,Justified,Nov,Mon,Spring,155,12,14,34,284031,high school,2,1,0,0,95,196,25,120
+Medical Consultation,Justified,Jan,Mon,Fall,155,12,14,34,330061,high school,2,1,0,0,95,196,25,2
+Medical Consultation,Justified,Jan,Tue,Fall,155,12,14,34,330061,high school,2,1,0,0,95,196,25,4
+Unjustified Absence,Unjustified,Oct,Fri,Spring,118,13,18,50,265017,high school,1,1,0,0,98,178,31,0
+Unjustified Absence,Unjustified,Oct,Fri,Spring,248,25,14,47,265017,high school,2,0,0,1,86,165,32,0
+Medical Consultation,Justified,Sept,Tue,Summer,155,12,14,34,261756,high school,2,1,0,0,95,196,25,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Dec,Tue,Fall,155,12,14,34,280549,high school,2,1,0,0,95,196,25,80
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Jan,Tue,Fall,155,12,14,34,313532,high school,2,1,0,0,95,196,25,8
+Lab examination,Justified,Feb,Mon,Fall,155,12,14,34,264249,high school,2,1,0,0,95,196,25,5
+Disease,Justified,Mar,Wed,Winter,155,12,14,34,222196,high school,2,1,0,0,95,196,25,24
+Unjustified Absence,Unjustified,Oct,Wed,Spring,235,20,13,43,265017,high school,1,1,0,0,106,167,38,0
+Dental Consultation,Justified,Apr,Tue,Winter,155,12,14,34,246288,high school,2,1,0,0,95,196,25,4
+Disease,Justified,May,Mon,Winter,155,12,14,34,237656,high school,2,1,0,0,95,196,25,48
+Unjustified Absence,Unjustified,Oct,Fri,Spring,235,20,13,43,265017,high school,1,1,0,0,106,167,38,0
+Medical Consultation,Justified,May,Wed,Winter,155,12,14,34,237656,high school,2,1,0,0,95,196,25,2
+Disease,Justified,May,Fri,Winter,155,12,14,34,237656,high school,2,1,0,0,95,196,25,8
+Medical Consultation,Justified,Sept,Thur,Summer,291,31,12,40,241476,high school,1,1,0,1,73,171,25,4
+Disease,Justified,Sept,Mon,Spring,291,31,12,40,241476,high school,1,1,0,1,73,171,25,32
+Medical Consultation,Justified,Oct,Thur,Spring,291,31,12,40,253465,high school,1,1,0,1,73,171,25,5
+Disease,Justified,Oct,Tue,Spring,291,31,12,40,253465,high school,1,1,0,1,73,171,25,8
+Medical Consultation,Justified,Nov,Thur,Spring,291,31,12,40,306345,high school,1,1,0,1,73,171,25,5
+Unjustified Absence,Unjustified,Oct,Tue,Spring,260,50,11,36,265017,high school,4,1,0,0,65,168,23,0
+Unjustified Absence,Unjustified,Oct,Tue,Spring,291,31,12,40,265017,high school,1,1,0,1,73,171,25,0
+Unjustified Absence,Unjustified,Oct,Tue,Spring,157,27,6,29,265017,high school,0,1,1,0,75,185,22,0
+Disease,Justified,Nov,Mon,Spring,291,31,12,40,306345,high school,1,1,0,1,73,171,25,40
+Medical Consultation,Justified,Nov,Thur,Spring,291,31,12,40,306345,high school,1,1,0,1,73,171,25,3
+Patient Follow-up,Justified,Mar,Wed,Fall,291,31,12,40,343253,high school,1,1,0,1,73,171,25,8
+Dental Consultation,Justified,Apr,Wed,Winter,291,31,12,40,326452,high school,1,1,0,1,73,171,25,1
+Medical Consultation,Justified,Apr,Fri,Winter,291,31,12,40,326452,high school,1,1,0,1,73,171,25,3
+Dental Consultation,Justified,Apr,Fri,Winter,291,31,12,40,326452,high school,1,1,0,1,73,171,25,1
+Medical Consultation,Justified,June,Thur,Winter,291,31,12,40,377550,high school,1,1,0,1,73,171,25,4
+Dental Consultation,Justified,Sept,Tue,Summer,291,31,12,40,294217,high school,1,1,0,1,73,171,25,3
+Dental Consultation,Justified,Sept,Fri,Summer,291,31,12,40,294217,high school,1,1,0,1,73,171,25,4
+Dental Consultation,Justified,Sept,Fri,Spring,291,31,12,40,294217,high school,1,1,0,1,73,171,25,3
+Disease,Justified,Sept,Mon,Spring,291,31,12,40,294217,high school,1,1,0,1,73,171,25,40
+Unjustified Absence,Unjustified,Nov,Tue,Spring,330,16,4,28,284031,graduate,0,0,0,0,84,182,25,0
+Dental Consultation,Justified,Oct,Tue,Spring,291,31,12,40,265017,high school,1,1,0,1,73,171,25,4
+Medical Consultation,Justified,Nov,Mon,Spring,291,31,12,40,284031,high school,1,1,0,1,73,171,25,1
+Disease,Justified,Nov,Fri,Spring,291,31,12,40,284031,high school,1,1,0,1,73,171,25,4
+Disease,Justified,Jan,Wed,Fall,291,31,12,40,330061,high school,1,1,0,1,73,171,25,8
+Medical Consultation,Justified,Feb,Tue,Fall,291,31,12,40,251818,high school,1,1,0,1,73,171,25,2
+Disease,Justified,June,Mon,Winter,291,31,12,40,253957,high school,1,1,0,1,73,171,25,40
+Dental Consultation,Justified,Jul,Thur,Summer,291,31,12,40,230290,high school,1,1,0,1,73,171,25,1
+Dental Consultation,Justified,Aug,Thur,Summer,291,31,12,40,249797,high school,1,1,0,1,73,171,25,4
+Dental Consultation,Justified,Aug,Thur,Summer,291,31,12,40,249797,high school,1,1,0,1,73,171,25,2
+Dental Consultation,Justified,Sept,Thur,Summer,291,31,12,40,261756,high school,1,1,0,1,73,171,25,2
+Unjustified Absence,Unjustified,Nov,Fri,Spring,378,49,11,36,284031,high school,2,0,1,4,65,174,21,0
+Unjustified Absence,Unjustified,Nov,Tue,Spring,279,5,14,39,284031,high school,2,1,1,0,68,168,24,0
+Dental Consultation,Justified,Oct,Wed,Spring,291,31,12,40,284853,high school,1,1,0,1,73,171,25,2
+Medical Consultation,Justified,Oct,Fri,Spring,291,31,12,40,284853,high school,1,1,0,1,73,171,25,1
+Medical Consultation,Justified,Oct,Wed,Spring,291,31,12,40,284853,high school,1,1,0,1,73,171,25,1
+Dental Consultation,Justified,Nov,Wed,Spring,291,31,12,40,268519,high school,1,1,0,1,73,171,25,2
+Dental Consultation,Justified,Dec,Wed,Spring,291,31,12,40,280549,high school,1,1,0,1,73,171,25,1
+Dental Consultation,Justified,May,Thur,Winter,291,31,12,40,237656,high school,1,1,0,1,73,171,25,2
+Patient Follow-up,Justified,May,Wed,Winter,291,31,12,40,237656,high school,1,1,0,1,73,171,25,8
+Dental Consultation,Justified,May,Thur,Winter,291,31,12,40,237656,high school,1,1,0,1,73,171,25,2
+Dental Consultation,Justified,June,Thur,Winter,291,31,12,40,275089,high school,1,1,0,1,73,171,25,2
+Medical Consultation,Justified,Mar,Wed,Winter,118,15,24,46,222196,high school,2,1,1,0,75,175,25,8
+Disease,Justified,June,Wed,Winter,118,15,24,46,275089,high school,2,1,1,0,75,175,25,8
+Disease,Justified,Nov,Thur,Spring,179,22,17,40,306345,graduate,2,0,1,0,63,170,22,8
+Disease,Justified,Nov,Wed,Spring,179,22,17,40,306345,graduate,2,0,1,0,63,170,22,8
+"Congenital malformations, deformations and chromosomal abnormalities  ",Justified,Mar,Tue,Fall,179,22,17,40,343253,graduate,2,0,1,0,63,170,22,8
+Disease,Justified,Mar,Mon,Fall,179,22,17,40,343253,graduate,2,0,1,0,63,170,22,40
+Disease,Justified,Mar,Thur,Fall,179,22,17,40,343253,graduate,2,0,1,0,63,170,22,8
+Patient Follow-up,Justified,Mar,Tue,Fall,179,22,17,40,244387,graduate,2,0,1,0,63,170,22,8
+Disease,Justified,May,Mon,Winter,179,22,17,40,246074,graduate,2,0,1,0,63,170,22,2
+Disease,Justified,May,Mon,Winter,179,22,17,40,246074,graduate,2,0,1,0,63,170,22,3
+Lab examination,Justified,Aug,Mon,Summer,179,22,17,40,249797,graduate,2,0,1,0,63,170,22,1
+Lab examination,Justified,Aug,Tue,Summer,179,22,17,40,249797,graduate,2,0,1,0,63,170,22,8
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Dec,Fri,Spring,179,22,17,40,280549,graduate,2,0,1,0,63,170,22,2
+Lab examination,Justified,Jan,Thur,Fall,179,22,17,40,313532,graduate,2,0,1,0,63,170,22,2
+Lab examination,Justified,Jan,Fri,Fall,179,22,17,40,313532,graduate,2,0,1,0,63,170,22,2
+Lab examination,Justified,Jan,Wed,Fall,179,22,17,40,313532,graduate,2,0,1,0,63,170,22,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Jan,Fri,Fall,179,22,17,40,313532,graduate,2,0,1,0,63,170,22,3
+Medical Consultation,Justified,Feb,Fri,Fall,179,22,17,40,264249,graduate,2,0,1,0,63,170,22,2
+Certain conditions originating in the perinatal period  ,Justified,Apr,Tue,Winter,179,22,17,40,246288,graduate,2,0,1,0,63,170,22,2
+Certain conditions originating in the perinatal period  ,Justified,May,Fri,Winter,179,22,17,40,237656,graduate,2,0,1,0,63,170,22,1
+Disease,Justified,May,Wed,Winter,179,22,17,40,237656,graduate,2,0,1,0,63,170,22,8
+Lab examination,Justified,May,Fri,Winter,179,22,17,40,237656,graduate,2,0,1,0,63,170,22,8
+Disease,Justified,Aug,Wed,Summer,330,16,4,28,205917,postgraduate,0,0,0,0,84,182,25,8
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Feb,Mon,Fall,330,16,4,28,302585,graduate,0,0,0,0,84,182,25,8
+Medical Consultation,Justified,Feb,Tue,Fall,330,16,4,28,302585,graduate,0,0,0,0,84,182,25,1
+Unjustified Absence,Unjustified,Jul,Tue,Summer,330,16,4,28,275312,graduate,0,0,0,0,84,182,25,8
+Disease,Justified,Jul,Mon,Summer,330,16,4,28,275312,graduate,0,0,0,0,84,182,25,8
+Disease,Justified,Jul,Tue,Summer,330,16,4,28,275312,graduate,0,0,0,0,84,182,25,8
+Unjustified Absence,Unjustified,Apr,Fri,Winter,330,16,4,28,239409,graduate,0,0,0,0,84,182,25,4
+Medical Consultation,Justified,Apr,Wed,Winter,330,16,4,28,239409,graduate,0,0,0,0,84,182,25,8
+Disease,Justified,May,Fri,Winter,330,16,4,28,246074,graduate,0,0,0,0,84,182,25,8
+Disease,Justified,June,Tue,Summer,330,16,4,28,253957,graduate,0,0,0,0,84,182,25,1
+Lab examination,Justified,Jul,Fri,Summer,330,16,4,28,230290,graduate,0,0,0,0,84,182,25,8
+Medical Consultation,Justified,Aug,Thur,Summer,330,16,4,28,249797,graduate,0,0,0,0,84,182,25,16
+Neoplasms,Justified,Nov,Wed,Spring,330,16,4,28,268519,graduate,0,0,0,0,84,182,25,24
+Disease,Justified,May,Thur,Winter,330,16,4,28,237656,graduate,0,0,0,0,84,182,25,8
+Disease,Justified,Aug,Thur,Summer,291,50,12,32,205917,high school,0,1,0,0,65,169,23,4
+Dental Consultation,Justified,Mar,Tue,Fall,291,50,12,32,343253,high school,0,1,0,0,65,169,23,2
+Medical Consultation,Justified,Jul,Fri,Summer,260,50,11,36,239554,high school,4,1,0,0,65,168,23,4
+Disease,Justified,Jul,Mon,Summer,260,50,11,36,239554,high school,4,1,0,0,65,168,23,8
+Disease,Justified,Jul,Tue,Summer,260,50,11,36,239554,high school,4,1,0,0,65,168,23,8
+Disease,Justified,Jul,Wed,Summer,260,50,11,36,239554,high school,4,1,0,0,65,168,23,8
+Dental Consultation,Justified,Aug,Fri,Summer,260,50,11,36,205917,high school,4,1,0,0,65,168,23,4
+Medical Consultation,Justified,Aug,Fri,Summer,260,50,11,36,205917,high school,4,1,0,0,65,168,23,4
+Patient Follow-up,Justified,Sept,Fri,Summer,260,50,11,36,241476,high school,4,1,0,0,65,168,23,8
+Medical Consultation,Justified,Sept,Fri,Spring,260,50,11,36,241476,high school,4,1,0,0,65,168,23,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Oct,Thur,Spring,260,50,11,36,253465,high school,4,1,0,0,65,168,23,16
+Dental Consultation,Justified,Oct,Fri,Spring,260,50,11,36,253465,high school,4,1,0,0,65,168,23,3
+Dental Consultation,Justified,Nov,Fri,Spring,260,50,11,36,306345,high school,4,1,0,0,65,168,23,4
+Unjustified Absence,Unjustified,Dec,Fri,Spring,260,50,11,36,261306,high school,4,1,0,0,65,168,23,8
+Dental Consultation,Justified,Dec,Fri,Spring,260,50,11,36,261306,high school,4,1,0,0,65,168,23,3
+Dental Consultation,Justified,Feb,Fri,Fall,260,50,11,36,302585,high school,4,1,0,0,65,168,23,2
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Mar,Tue,Fall,260,50,11,36,343253,high school,4,1,0,0,65,168,23,8
+Unjustified Absence,Unjustified,Mar,Wed,Fall,369,17,12,31,244387,high school,3,1,0,0,70,169,25,0
+Disease,Justified,Mar,Wed,Fall,260,50,11,36,343253,high school,4,1,0,0,65,168,23,8
+Disease,Justified,Mar,Fri,Fall,260,50,11,36,343253,high school,4,1,0,0,65,168,23,40
+Unjustified Absence,Unjustified,Mar,Mon,Fall,260,50,11,36,343253,high school,4,1,0,0,65,168,23,16
+Dental Consultation,Justified,Mar,Fri,Fall,260,50,11,36,343253,high school,4,1,0,0,65,168,23,4
+Unjustified Absence,Unjustified,Mar,Thur,Winter,235,11,14,37,244387,postgraduate,1,0,0,1,88,172,29,0
+Unjustified Absence,Unjustified,Mar,Thur,Winter,246,25,16,41,244387,high school,0,1,0,0,67,170,23,0
+Unjustified Absence,Unjustified,Mar,Thur,Winter,118,13,18,50,244387,high school,1,1,0,0,98,178,31,0
+Dental Consultation,Justified,Apr,Fri,Winter,260,50,11,36,326452,high school,4,1,0,0,65,168,23,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Fri,Winter,260,50,11,36,326452,high school,4,1,0,0,65,168,23,56
+Dental Consultation,Justified,Aug,Fri,Summer,260,50,11,36,265615,high school,4,1,0,0,65,168,23,4
+Dental Consultation,Justified,Sept,Fri,Summer,260,50,11,36,294217,high school,4,1,0,0,65,168,23,4
+Dental Consultation,Justified,Oct,Fri,Spring,260,50,11,36,265017,high school,4,1,0,0,65,168,23,3
+Dental Consultation,Justified,Nov,Fri,Spring,260,50,11,36,284031,high school,4,1,0,0,65,168,23,3
+Disease,Justified,Nov,Wed,Spring,260,50,11,36,284031,high school,4,1,0,0,65,168,23,8
+Pregnancy/childbirth & the puerperium,Justified,Nov,Fri,Spring,260,50,11,36,284031,high school,4,1,0,0,65,168,23,8
+Dental Consultation,Justified,Dec,Fri,Spring,260,50,11,36,236629,high school,4,1,0,0,65,168,23,4
+Unjustified Absence,Unjustified,Dec,Wed,Fall,260,50,11,36,236629,high school,4,1,0,0,65,168,23,8
+Dental Consultation,Justified,Feb,Fri,Fall,260,50,11,36,251818,high school,4,1,0,0,65,168,23,3
+Dental Consultation,Justified,Mar,Fri,Fall,260,50,11,36,244387,high school,4,1,0,0,65,168,23,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Mar,Mon,Winter,260,50,11,36,244387,high school,4,1,0,0,65,168,23,8
+Dental Consultation,Justified,Apr,Fri,Winter,260,50,11,36,239409,high school,4,1,0,0,65,168,23,3
+Dental Consultation,Justified,Apr,Fri,Winter,260,50,11,36,239409,high school,4,1,0,0,65,168,23,4
+Dental Consultation,Justified,May,Fri,Winter,260,50,11,36,246074,high school,4,1,0,0,65,168,23,3
+Dental Consultation,Justified,June,Fri,Winter,260,50,11,36,253957,high school,4,1,0,0,65,168,23,4
+Disease,Justified,Jul,Fri,Summer,260,50,11,36,230290,high school,4,1,0,0,65,168,23,8
+Unjustified Absence,Unjustified,Jul,Mon,Summer,260,50,11,36,230290,high school,4,1,0,0,65,168,23,4
+Dental Consultation,Justified,Aug,Mon,Summer,260,50,11,36,249797,high school,4,1,0,0,65,168,23,3
+Disease,Justified,Aug,Thur,Summer,268,11,8,33,265615,graduate,0,0,0,0,79,178,25,8
+Disease,Justified,Jul,Mon,Summer,268,11,8,33,230290,graduate,0,0,0,0,79,178,25,8
+Medical Consultation,Justified,Oct,Thur,Spring,179,26,9,30,253465,postgraduate,0,0,0,0,56,171,19,1
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Jan,Tue,Fall,179,26,9,30,308593,postgraduate,0,0,0,0,56,171,19,8
+Medical Consultation,Justified,Feb,Tue,Fall,179,26,9,30,302585,postgraduate,0,0,0,0,56,171,19,1
+Disease,Justified,Mar,Thur,Fall,179,26,9,30,343253,postgraduate,0,0,0,0,56,171,19,8
+Disease,Justified,Mar,Mon,Winter,179,26,9,30,343253,postgraduate,0,0,0,0,56,171,19,1
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Jul,Thur,Summer,179,26,9,30,275312,postgraduate,0,0,0,0,56,171,19,8
+Medical Consultation,Justified,Aug,Thur,Summer,179,26,9,30,265615,postgraduate,0,0,0,0,56,171,19,1
+Disease,Justified,Oct,Mon,Spring,179,26,9,30,265017,postgraduate,0,0,0,0,56,171,19,8
+Disease,Justified,Oct,Wed,Spring,179,26,9,30,265017,postgraduate,0,0,0,0,56,171,19,64
+Medical Consultation,Justified,Oct,Thur,Spring,179,26,9,30,265017,postgraduate,0,0,0,0,56,171,19,16
+Disease,Justified,Oct,Wed,Spring,179,26,9,30,265017,postgraduate,0,0,0,0,56,171,19,5
+Disease,Justified,Oct,Wed,Spring,179,26,9,30,265017,postgraduate,0,0,0,0,56,171,19,5
+Medical Consultation,Justified,Dec,Tue,Spring,179,26,9,30,236629,postgraduate,0,0,0,0,56,171,19,1
+Medical Consultation,Justified,May,Wed,Winter,179,26,9,30,246074,postgraduate,0,0,0,0,56,171,19,3
+Lab examination,Justified,May,Mon,Winter,179,26,9,30,246074,postgraduate,0,0,0,0,56,171,19,2
+Medical Consultation,Justified,May,Wed,Winter,179,26,9,30,246074,postgraduate,0,0,0,0,56,171,19,3
+Unjustified Absence,Unjustified,June,Fri,Winter,179,51,18,38,253957,high school,0,1,0,0,89,170,31,0
+Disease,Justified,June,Wed,Summer,179,26,9,30,253957,postgraduate,0,0,0,0,56,171,19,2
+Medical Consultation,Justified,Jul,Thur,Summer,179,26,9,30,230290,postgraduate,0,0,0,0,56,171,19,2
+Medical Consultation,Justified,Sept,Fri,Summer,179,26,9,30,261756,postgraduate,0,0,0,0,56,171,19,8
+Medical Consultation,Justified,Sept,Mon,Summer,179,26,9,30,261756,postgraduate,0,0,0,0,56,171,19,2
+Disease,Justified,Dec,Fri,Spring,179,26,9,30,280549,postgraduate,0,0,0,0,56,171,19,1
+Disease,Justified,Dec,Tue,Spring,179,26,9,30,280549,postgraduate,0,0,0,0,56,171,19,16
+Disease,Justified,Jan,Mon,Fall,179,26,9,30,313532,postgraduate,0,0,0,0,56,171,19,24
+Disease,Justified,Jan,Thur,Fall,179,26,9,30,313532,postgraduate,0,0,0,0,56,171,19,16
+Disease,Justified,Jan,Mon,Fall,179,26,9,30,313532,postgraduate,0,0,0,0,56,171,19,3
+Physiotherapy,Justified,Jan,Mon,Fall,179,26,9,30,313532,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Jan,Wed,Fall,179,26,9,30,313532,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Feb,Thur,Fall,179,26,9,30,264249,postgraduate,0,0,0,0,56,171,19,2
+Disease,Justified,Feb,Thur,Fall,179,26,9,30,264249,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Feb,Wed,Fall,179,26,9,30,264249,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Mar,Fri,Fall,179,26,9,30,222196,postgraduate,0,0,0,0,56,171,19,3
+Physiotherapy,Justified,Mar,Fri,Fall,179,26,9,30,222196,postgraduate,0,0,0,0,56,171,19,2
+Medical Consultation,Justified,Mar,Fri,Fall,179,26,9,30,222196,postgraduate,0,0,0,0,56,171,19,2
+Disease,Justified,Mar,Mon,Winter,179,26,9,30,222196,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Apr,Fri,Winter,179,26,9,30,246288,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Apr,Fri,Winter,179,26,9,30,246288,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Apr,Fri,Winter,179,26,9,30,246288,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,Apr,Fri,Winter,179,26,9,30,246288,postgraduate,0,0,0,0,56,171,19,2
+Disease,Justified,May,Thur,Winter,179,26,9,30,237656,postgraduate,0,0,0,0,56,171,19,1
+Physiotherapy,Justified,May,Fri,Winter,179,26,9,30,237656,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,May,Wed,Winter,179,26,9,30,237656,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,May,Fri,Winter,179,26,9,30,237656,postgraduate,0,0,0,0,56,171,19,2
+Physiotherapy,Justified,June,Wed,Winter,179,26,9,30,275089,postgraduate,0,0,0,0,56,171,19,3
+Physiotherapy,Justified,June,Fri,Winter,179,26,9,30,275089,postgraduate,0,0,0,0,56,171,19,2
+Disease,Justified,June,Thur,Winter,179,26,9,30,275089,postgraduate,0,0,0,0,56,171,19,2
+Disease,Justified,June,Mon,Summer,179,26,9,30,275089,postgraduate,0,0,0,0,56,171,19,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Wed,Winter,378,49,11,36,326452,high school,2,0,1,4,65,174,21,8
+Patient Follow-up,Justified,June,Thur,Winter,378,49,11,36,377550,high school,2,0,1,4,65,174,21,8
+Disease,Justified,Nov,Mon,Spring,378,49,11,36,284031,high school,2,0,1,4,65,174,21,8
+Patient Follow-up,Justified,Mar,Tue,Fall,378,49,11,36,244387,high school,2,0,1,4,65,174,21,8
+Patient Follow-up,Justified,June,Thur,Winter,378,49,11,36,275089,high school,2,0,1,4,65,174,21,8
+Disease,Justified,Jul,Fri,Summer,246,25,16,41,239554,high school,0,1,0,0,67,170,23,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Dec,Fri,Fall,246,25,16,41,261306,high school,0,1,0,0,67,170,23,8
+Disease,Justified,Feb,Wed,Fall,246,25,16,41,302585,high school,0,1,0,0,67,170,23,8
+Disease,Justified,Apr,Wed,Winter,246,25,16,41,326452,high school,0,1,0,0,67,170,23,24
+Disease,Justified,Apr,Fri,Winter,246,25,16,41,326452,high school,0,1,0,0,67,170,23,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,June,Mon,Winter,246,25,16,41,377550,high school,0,1,0,0,67,170,23,8
+Disease,Justified,June,Tue,Winter,246,25,16,41,377550,high school,0,1,0,0,67,170,23,24
+Disease,Justified,June,Fri,Winter,246,25,16,41,377550,high school,0,1,0,0,67,170,23,8
+Disease,Justified,June,Mon,Winter,246,25,16,41,377550,high school,0,1,0,0,67,170,23,8
+Disease,Justified,Sept,Mon,Summer,246,25,16,41,294217,high school,0,1,0,0,67,170,23,16
+Disease,Justified,Sept,Wed,Summer,246,25,16,41,294217,high school,0,1,0,0,67,170,23,32
+Disease,Justified,Nov,Fri,Spring,246,25,16,41,284031,high school,0,1,0,0,67,170,23,8
+Disease,Justified,Nov,Mon,Spring,246,25,16,41,284031,high school,0,1,0,0,67,170,23,8
+Disease,Justified,Dec,Thur,Spring,246,25,16,41,236629,high school,0,1,0,0,67,170,23,8
+Unjustified Absence,Unjustified,Feb,Thur,Fall,246,25,16,41,251818,high school,0,1,0,0,67,170,23,8
+Medical Consultation,Justified,Feb,Tue,Fall,246,25,16,41,251818,high school,0,1,0,0,67,170,23,2
+Disease,Justified,Feb,Fri,Fall,246,25,16,41,251818,high school,0,1,0,0,67,170,23,24
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Mar,Wed,Fall,246,25,16,41,244387,high school,0,1,0,0,67,170,23,16
+Dental Consultation,Justified,Mar,Fri,Fall,246,25,16,41,244387,high school,0,1,0,0,67,170,23,2
+Dental Consultation,Justified,Mar,Tue,Winter,246,25,16,41,244387,high school,0,1,0,0,67,170,23,2
+Dental Consultation,Justified,June,Tue,Winter,246,25,16,41,253957,high school,0,1,0,0,67,170,23,3
+Dental Consultation,Justified,June,Fri,Summer,246,25,16,41,253957,high school,0,1,0,0,67,170,23,2
+Dental Consultation,Justified,Jul,Tue,Summer,246,25,16,41,230290,high school,0,1,0,0,67,170,23,2
+Dental Consultation,Justified,Jul,Tue,Summer,246,25,16,41,230290,high school,0,1,0,0,67,170,23,2
+Dental Consultation,Justified,Aug,Tue,Summer,246,25,16,41,249797,high school,0,1,0,0,67,170,23,4
+Dental Consultation,Justified,Aug,Tue,Summer,246,25,16,41,249797,high school,0,1,0,0,67,170,23,1
+Dental Consultation,Justified,Sept,Tue,Summer,246,25,16,41,261756,high school,0,1,0,0,67,170,23,1
+Dental Consultation,Justified,Sept,Tue,Summer,246,25,16,41,261756,high school,0,1,0,0,67,170,23,1
+Unjustified Absence,Unjustified,Oct,Fri,Spring,246,25,16,41,284853,high school,0,1,0,0,67,170,23,8
+Disease,Justified,Oct,Thur,Spring,235,16,8,32,284853,postgraduate,0,0,0,0,75,178,25,3
+Disease,Justified,Oct,Mon,Spring,235,16,8,32,284853,postgraduate,0,0,0,0,75,178,25,8
+Disease,Justified,Nov,Fri,Spring,235,16,8,32,268519,postgraduate,0,0,0,0,75,178,25,8
+Lab examination,Justified,Feb,Mon,Fall,235,16,8,32,264249,postgraduate,0,0,0,0,75,178,25,3
+Lab examination,Justified,Feb,Fri,Fall,235,16,8,32,264249,postgraduate,0,0,0,0,75,178,25,2
+Lab examination,Justified,Mar,Mon,Fall,235,16,8,32,222196,postgraduate,0,0,0,0,75,178,25,3
+Certain conditions originating in the perinatal period  ,Justified,Apr,Tue,Winter,235,16,8,32,246288,postgraduate,0,0,0,0,75,178,25,3
+Dental Consultation,Justified,May,Wed,Winter,235,16,8,32,237656,postgraduate,0,0,0,0,75,178,25,2
+Disease,Justified,May,Mon,Winter,235,16,8,32,237656,postgraduate,0,0,0,0,75,178,25,8
+Medical Consultation,Justified,May,Thur,Winter,235,16,8,32,237656,postgraduate,0,0,0,0,75,178,25,2
+Disease,Justified,Aug,Thur,Summer,300,26,13,43,265615,high school,2,1,1,1,77,175,25,1
+Disease,Justified,Aug,Thur,Summer,300,26,13,43,265615,high school,2,1,1,1,77,175,25,2
+Dental Consultation,Justified,Apr,Fri,Winter,300,26,13,43,239409,high school,2,1,1,1,77,175,25,8
+Pregnancy/childbirth & the puerperium,Justified,Jul,Mon,Summer,300,26,13,43,230290,high school,2,1,1,1,77,175,25,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,May,Fri,Winter,300,26,13,43,237656,high school,2,1,1,1,77,175,25,64
+Medical Consultation,Justified,Sept,Tue,Summer,184,42,7,27,241476,high school,0,0,0,0,58,167,21,2
+Medical Consultation,Justified,Jan,Thur,Fall,184,42,7,27,308593,high school,0,0,0,0,58,167,21,2
+Medical Consultation,Justified,Jan,Thur,Fall,184,42,7,27,308593,high school,0,0,0,0,58,167,21,2
+Medical Consultation,Justified,Feb,Fri,Fall,184,42,7,27,302585,high school,0,0,0,0,58,167,21,1
+Unjustified Absence,Unjustified,Oct,Mon,Spring,225,26,9,28,284853,high school,1,0,0,2,69,169,24,0
+Medical Consultation,Justified,Feb,Tue,Fall,184,42,7,27,302585,high school,0,0,0,0,58,167,21,8
+Disease,Justified,May,Wed,Winter,184,42,7,27,378884,high school,0,0,0,0,58,167,21,4
+Disease,Justified,Aug,Wed,Summer,184,42,7,27,265615,high school,0,0,0,0,58,167,21,8
+Medical Consultation,Justified,Sept,Tue,Spring,225,26,9,28,241476,high school,1,0,0,2,69,169,24,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Sept,Wed,Spring,225,26,9,28,241476,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Oct,Fri,Spring,225,26,9,28,253465,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Oct,Wed,Spring,225,26,9,28,253465,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Oct,Wed,Spring,225,26,9,28,253465,high school,1,0,0,2,69,169,24,3
+Dental Consultation,Justified,Oct,Tue,Spring,225,26,9,28,253465,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Nov,Wed,Spring,225,26,9,28,306345,high school,1,0,0,2,69,169,24,1
+Medical Consultation,Justified,Nov,Wed,Spring,225,26,9,28,306345,high school,1,0,0,2,69,169,24,1
+Medical Consultation,Justified,Nov,Wed,Spring,225,26,9,28,306345,high school,1,0,0,2,69,169,24,3
+Disease,Justified,Nov,Fri,Spring,225,26,9,28,306345,high school,1,0,0,2,69,169,24,3
+Dental Consultation,Justified,Nov,Tue,Spring,225,26,9,28,306345,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Dec,Thur,Spring,225,26,9,28,261306,high school,1,0,0,2,69,169,24,2
+Dental Consultation,Justified,Dec,Thur,Spring,225,26,9,28,261306,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Dec,Tue,Spring,225,26,9,28,261306,high school,1,0,0,2,69,169,24,2
+Unjustified Absence,Unjustified,Nov,Tue,Spring,291,31,12,40,268519,high school,1,1,0,1,73,171,25,0
+Unjustified Absence,Unjustified,Nov,Wed,Spring,289,36,13,33,268519,high school,2,1,0,1,90,172,30,0
+Medical Consultation,Justified,Dec,Fri,Fall,225,26,9,28,261306,high school,1,0,0,2,69,169,24,2
+Unjustified Absence,Unjustified,Nov,Thur,Spring,235,20,13,43,268519,high school,1,1,0,0,106,167,38,0
+Medical Consultation,Justified,Jan,Wed,Fall,225,26,9,28,308593,high school,1,0,0,2,69,169,24,1
+Physiotherapy,Justified,Jan,Wed,Fall,225,26,9,28,308593,high school,1,0,0,2,69,169,24,2
+Dental Consultation,Justified,Jan,Thur,Fall,225,26,9,28,308593,high school,1,0,0,2,69,169,24,2
+Physiotherapy,Justified,Jan,Fri,Fall,225,26,9,28,308593,high school,1,0,0,2,69,169,24,1
+Physiotherapy,Justified,Jan,Tue,Fall,225,26,9,28,308593,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Jan,Tue,Fall,225,26,9,28,308593,high school,1,0,0,2,69,169,24,1
+Dental Consultation,Justified,Feb,Mon,Fall,225,26,9,28,302585,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Feb,Tue,Fall,225,26,9,28,302585,high school,1,0,0,2,69,169,24,2
+Lab examination,Justified,Feb,Thur,Fall,225,26,9,28,302585,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Feb,Wed,Fall,225,26,9,28,302585,high school,1,0,0,2,69,169,24,1
+Medical Consultation,Justified,Mar,Fri,Fall,225,26,9,28,343253,high school,1,0,0,2,69,169,24,1
+Medical Consultation,Justified,Mar,Wed,Fall,225,26,9,28,343253,high school,1,0,0,2,69,169,24,2
+Disease,Justified,Mar,Mon,Winter,225,26,9,28,343253,high school,1,0,0,2,69,169,24,8
+Disease,Justified,Mar,Tue,Winter,225,26,9,28,343253,high school,1,0,0,2,69,169,24,8
+Disease,Justified,Mar,Wed,Winter,225,26,9,28,343253,high school,1,0,0,2,69,169,24,16
+Dental Consultation,Justified,Mar,Fri,Winter,225,26,9,28,343253,high school,1,0,0,2,69,169,24,2
+Dental Consultation,Justified,Mar,Mon,Winter,225,26,9,28,343253,high school,1,0,0,2,69,169,24,1
+Medical Consultation,Justified,Apr,Wed,Winter,225,26,9,28,326452,high school,1,0,0,2,69,169,24,1
+Dental Consultation,Justified,Apr,Fri,Winter,225,26,9,28,326452,high school,1,0,0,2,69,169,24,2
+"Injury, poisoning and certain other consequences of external causes  ",Justified,May,Tue,Winter,225,26,9,28,378884,high school,1,0,0,2,69,169,24,8
+Dental Consultation,Justified,June,Thur,Summer,225,26,9,28,377550,high school,1,0,0,2,69,169,24,2
+Disease,Justified,Dec,Mon,Spring,225,26,9,28,236629,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Jan,Wed,Fall,225,26,9,28,330061,high school,1,0,0,2,69,169,24,5
+Disease,Justified,Feb,Wed,Fall,225,26,9,28,251818,high school,1,0,0,2,69,169,24,1
+Lab examination,Justified,May,Wed,Winter,225,26,9,28,246074,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,June,Thur,Winter,225,26,9,28,253957,high school,1,0,0,2,69,169,24,4
+Medical Consultation,Justified,June,Wed,Summer,225,26,9,28,253957,high school,1,0,0,2,69,169,24,2
+Lab examination,Justified,Jul,Thur,Summer,225,26,9,28,230290,high school,1,0,0,2,69,169,24,4
+Disease,Justified,Jul,Tue,Summer,225,26,9,28,230290,high school,1,0,0,2,69,169,24,112
+Medical Consultation,Justified,Sept,Wed,Summer,225,26,9,28,261756,high school,1,0,0,2,69,169,24,1
+Medical Consultation,Justified,Oct,Tue,Spring,225,26,9,28,284853,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Oct,Tue,Spring,225,26,9,28,284853,high school,1,0,0,2,69,169,24,4
+Disease,Justified,Oct,Thur,Spring,225,26,9,28,284853,high school,1,0,0,2,69,169,24,1
+Disease,Justified,Oct,Fri,Spring,225,26,9,28,284853,high school,1,0,0,2,69,169,24,3
+Disease,Justified,Oct,Tue,Spring,225,26,9,28,284853,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Nov,Fri,Spring,225,26,9,28,268519,high school,1,0,0,2,69,169,24,4
+Disease,Justified,Nov,Thur,Spring,225,26,9,28,268519,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Nov,Tue,Spring,225,26,9,28,268519,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Nov,Fri,Spring,225,26,9,28,268519,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Dec,Wed,Spring,225,26,9,28,280549,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Dec,Fri,Spring,225,26,9,28,280549,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Dec,Wed,Spring,225,26,9,28,280549,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Dec,Tue,Spring,225,26,9,28,280549,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Dec,Thur,Spring,225,26,9,28,280549,high school,1,0,0,2,69,169,24,3
+Medical Consultation,Justified,Dec,Mon,Spring,225,26,9,28,280549,high school,1,0,0,2,69,169,24,2
+Medical Consultation,Justified,Feb,Tue,Fall,225,26,9,28,264249,high school,1,0,0,2,69,169,24,3
+Dental Consultation,Justified,Feb,Thur,Fall,225,26,9,28,264249,high school,1,0,0,2,69,169,24,3
+Disease,Justified,Feb,Tue,Fall,225,26,9,28,264249,high school,1,0,0,2,69,169,24,8
+Lab examination,Justified,Feb,Thur,Fall,225,26,9,28,264249,high school,1,0,0,2,69,169,24,3
+Disease,Justified,Feb,Mon,Fall,225,26,9,28,264249,high school,1,0,0,2,69,169,24,2
+Lab examination,Justified,Feb,Tue,Fall,225,26,9,28,264249,high school,1,0,0,2,69,169,24,2
+Physiotherapy,Justified,Mar,Thur,Fall,225,26,9,28,222196,high school,1,0,0,2,69,169,24,2
+Lab examination,Justified,Mar,Thur,Fall,225,26,9,28,222196,high school,1,0,0,2,69,169,24,2
+Disease,Justified,Mar,Mon,Fall,225,26,9,28,222196,high school,1,0,0,2,69,169,24,8
+Disease,Justified,Apr,Mon,Winter,225,26,9,28,246288,high school,1,0,0,2,69,169,24,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Mon,Winter,225,26,9,28,246288,high school,1,0,0,2,69,169,24,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Thur,Winter,225,26,9,28,246288,high school,1,0,0,2,69,169,24,8
+Disease,Justified,May,Wed,Winter,225,26,9,28,237656,high school,1,0,0,2,69,169,24,3
+Disease,Justified,May,Mon,Winter,225,26,9,28,237656,high school,1,0,0,2,69,169,24,1
+Patient Follow-up,Justified,Jul,Wed,Summer,225,26,9,28,264604,high school,1,0,0,2,69,169,24,8
+Dental Consultation,Justified,Feb,Fri,Fall,225,15,15,41,264249,master/PhD,2,1,0,2,94,182,28,2
+"Injury, poisoning and certain other consequences of external causes  ",Justified,May,Wed,Winter,225,15,15,41,237656,master/PhD,2,1,0,2,94,182,28,3
+Disease,Justified,May,Thur,Winter,225,15,15,41,237656,master/PhD,2,1,0,2,94,182,28,8
+Patient Follow-up,Justified,May,Fri,Winter,225,15,15,41,237656,master/PhD,2,1,0,2,94,182,28,8
+Dental Consultation,Justified,Aug,Wed,Summer,157,27,6,29,205917,high school,0,1,1,0,75,185,22,4
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Mar,Tue,Fall,157,27,6,29,343253,high school,0,1,1,0,75,185,22,3
+Lab examination,Justified,Jul,Mon,Summer,157,27,6,29,275312,high school,0,1,1,0,75,185,22,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Aug,Fri,Summer,157,27,6,29,265615,high school,0,1,1,0,75,185,22,3
+Dental Consultation,Justified,Dec,Mon,Fall,157,27,6,29,236629,high school,0,1,1,0,75,185,22,2
+Disease,Justified,Feb,Wed,Fall,157,27,6,29,251818,high school,0,1,1,0,75,185,22,16
+Disease,Justified,Feb,Mon,Fall,388,15,9,50,302585,high school,0,0,0,0,76,178,24,8
+Disease,Justified,Feb,Tue,Fall,388,15,9,50,302585,high school,0,0,0,0,76,178,24,8
+Dental Consultation,Justified,June,Mon,Summer,289,48,29,49,377550,high school,0,0,0,2,108,172,36,2
+Disease,Justified,Oct,Thur,Spring,289,48,29,49,284853,high school,0,0,0,2,108,172,36,1
+Disease,Justified,Oct,Wed,Spring,289,48,29,49,284853,high school,0,0,0,2,108,172,36,3
+Medical Consultation,Justified,Oct,Thur,Spring,289,48,29,49,284853,high school,0,0,0,2,108,172,36,2
+Disease,Justified,Jan,Thur,Fall,289,48,29,49,313532,high school,0,0,0,2,108,172,36,8
+Medical Consultation,Justified,Aug,Wed,Summer,248,25,14,47,205917,high school,2,0,0,1,86,165,32,2
+Medical Consultation,Justified,Sept,Fri,Spring,248,25,14,47,241476,high school,2,0,0,1,86,165,32,1
+Medical Consultation,Justified,Oct,Wed,Spring,248,25,14,47,253465,high school,2,0,0,1,86,165,32,2
+Dental Consultation,Justified,Nov,Mon,Spring,248,25,14,47,306345,high school,2,0,0,1,86,165,32,1
+Medical Consultation,Justified,Dec,Tue,Spring,248,25,14,47,261306,high school,2,0,0,1,86,165,32,1
+Disease,Justified,Mar,Fri,Fall,248,25,14,47,343253,high school,2,0,0,1,86,165,32,3
+Disease,Justified,Mar,Fri,Winter,248,25,14,47,343253,high school,2,0,0,1,86,165,32,3
+Dental Consultation,Justified,Apr,Fri,Winter,248,25,14,47,326452,high school,2,0,0,1,86,165,32,8
+Medical Consultation,Justified,Aug,Wed,Summer,248,25,14,47,265615,high school,2,0,0,1,86,165,32,1
+Lab examination,Justified,Aug,Mon,Summer,248,25,14,47,265615,high school,2,0,0,1,86,165,32,2
+Medical Consultation,Justified,Nov,Mon,Spring,248,25,14,47,284031,high school,2,0,0,1,86,165,32,2
+Unjustified Absence,Unjustified,Apr,Mon,Winter,248,25,14,47,239409,high school,2,0,0,1,86,165,32,4
+Medical Consultation,Justified,May,Wed,Winter,248,25,14,47,246074,high school,2,0,0,1,86,165,32,2
+Medical Consultation,Justified,Sept,Fri,Summer,248,25,14,47,261756,high school,2,0,0,1,86,165,32,1
+Disease,Justified,Oct,Mon,Spring,248,25,14,47,284853,high school,2,0,0,1,86,165,32,8
+Disease,Justified,Nov,Thur,Spring,248,25,14,47,268519,high school,2,0,0,1,86,165,32,4
+Disease,Justified,Feb,Wed,Fall,248,25,14,47,264249,high school,2,0,0,1,86,165,32,8
+Medical Consultation,Justified,Feb,Tue,Fall,248,25,14,47,264249,high school,2,0,0,1,86,165,32,2
+Medical Consultation,Justified,Mar,Mon,Fall,248,25,14,47,222196,high school,2,0,0,1,86,165,32,2
+Lab examination,Justified,Mar,Tue,Fall,248,25,14,47,222196,high school,2,0,0,1,86,165,32,3
+Disease,Justified,Mar,Mon,Fall,248,25,14,47,222196,high school,2,0,0,1,86,165,32,2
+Medical Consultation,Justified,Mar,Thur,Fall,248,25,14,47,222196,high school,2,0,0,1,86,165,32,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Apr,Wed,Winter,248,25,14,47,246288,high school,2,0,0,1,86,165,32,8
+Medical Consultation,Justified,Sept,Mon,Summer,118,10,10,37,241476,high school,0,0,0,0,83,172,28,4
+Medical Consultation,Justified,Sept,Mon,Summer,118,10,10,37,241476,high school,0,0,0,0,83,172,28,3
+Medical Consultation,Justified,Sept,Tue,Spring,118,10,10,37,241476,high school,0,0,0,0,83,172,28,2
+Medical Consultation,Justified,Oct,Tue,Spring,118,10,10,37,253465,high school,0,0,0,0,83,172,28,3
+Medical Consultation,Justified,Oct,Tue,Spring,118,10,10,37,253465,high school,0,0,0,0,83,172,28,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Dec,Tue,Spring,118,10,10,37,261306,high school,0,0,0,0,83,172,28,64
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Dec,Tue,Spring,118,10,10,37,261306,high school,0,0,0,0,83,172,28,56
+Physiotherapy,Justified,Dec,Fri,Spring,118,10,10,37,261306,high school,0,0,0,0,83,172,28,2
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jan,Mon,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,1
+Physiotherapy,Justified,Jan,Tue,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,1
+Physiotherapy,Justified,Jan,Mon,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Tue,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Wed,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Thur,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Fri,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Mon,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Tue,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Wed,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Thur,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,2
+Physiotherapy,Justified,Jan,Mon,Fall,118,10,10,37,308593,high school,0,0,0,0,83,172,28,0
+Mental/Behav.  Disorders,Justified,Jul,Fri,Summer,118,10,10,37,275312,high school,0,0,0,0,83,172,28,8
+Unjustified Absence,Unjustified,Jul,Fri,Summer,118,10,10,37,275312,high school,0,0,0,0,83,172,28,4
+Disease,Justified,Oct,Mon,Spring,118,10,10,37,265017,high school,0,0,0,0,83,172,28,3
+Disease,Justified,Nov,Mon,Spring,118,10,10,37,284031,high school,0,0,0,0,83,172,28,8
+Disease,Justified,Nov,Wed,Spring,118,10,10,37,284031,high school,0,0,0,0,83,172,28,3
+Lab examination,Justified,Dec,Tue,Spring,118,10,10,37,236629,high school,0,0,0,0,83,172,28,8
+"Injury, poisoning and certain other consequences of external causes  ",Justified,Jan,Mon,Fall,118,10,10,37,330061,high school,0,0,0,0,83,172,28,32
+Dental Consultation,Justified,Feb,Tue,Fall,118,10,10,37,251818,high school,0,0,0,0,83,172,28,2
+"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",Justified,Mar,Tue,Fall,118,10,10,37,244387,high school,0,0,0,0,83,172,28,8
+Disease,Justified,Apr,Wed,Winter,118,10,10,37,239409,high school,0,0,0,0,83,172,28,2
+Dental Consultation,Justified,May,Mon,Winter,118,10,10,37,246074,high school,0,0,0,0,83,172,28,1
+Medical Consultation,Justified,June,Mon,Winter,118,10,10,37,253957,high school,0,0,0,0,83,172,28,3
+Dental Consultation,Justified,June,Tue,Winter,118,10,10,37,253957,high school,0,0,0,0,83,172,28,2
+Unjustified Absence,Unjustified,Jul,Fri,Summer,118,10,10,37,230290,high school,0,0,0,0,83,172,28,8
+Dental Consultation,Justified,Jul,Tue,Summer,118,10,10,37,230290,high school,0,0,0,0,83,172,28,8
+Dental Consultation,Justified,Aug,Tue,Summer,118,10,10,37,249797,high school,0,0,0,0,83,172,28,4
+Unjustified Absence,Unjustified,May,Tue,Winter,118,13,18,50,237656,high school,1,1,0,0,98,178,31,0
+Dental Consultation,Justified,Aug,Tue,Summer,118,10,10,37,249797,high school,0,0,0,0,83,172,28,5
+Unjustified Absence,Unjustified,May,Wed,Winter,378,49,11,36,237656,high school,2,0,1,4,65,174,21,0
+Dental Consultation,Justified,Sept,Tue,Summer,118,10,10,37,261756,high school,0,0,0,0,83,172,28,3
+Medical Consultation,Justified,Oct,Tue,Spring,118,10,10,37,284853,high school,0,0,0,0,83,172,28,2
+Dental Consultation,Justified,Nov,Wed,Spring,118,10,10,37,268519,high school,0,0,0,0,83,172,28,3
+Disease,Justified,Nov,Tue,Spring,118,10,10,37,268519,high school,0,0,0,0,83,172,28,8
+Disease,Justified,Nov,Thur,Spring,118,10,10,37,268519,high school,0,0,0,0,83,172,28,2
+Medical Consultation,Justified,Nov,Mon,Spring,118,10,10,37,268519,high school,0,0,0,0,83,172,28,8
+Disease,Justified,Nov,Tue,Spring,118,10,10,37,268519,high school,0,0,0,0,83,172,28,8
+Disease,Justified,Apr,Mon,Winter,118,10,10,37,246288,high school,0,0,0,0,83,172,28,8
+Disease,Justified,Apr,Wed,Winter,118,10,10,37,246288,high school,0,0,0,0,83,172,28,2
+Disease,Justified,May,Wed,Winter,118,10,10,37,237656,high school,0,0,0,0,83,172,28,3
+Dental Consultation,Justified,May,Tue,Winter,118,10,10,37,237656,high school,0,0,0,0,83,172,28,1
+Unjustified Absence,Unjustified,June,Fri,Winter,118,10,10,37,275089,high school,0,0,0,0,83,172,28,8
+Disease,Justified,June,Wed,Winter,118,10,10,37,275089,high school,0,0,0,0,83,172,28,8
+Lab examination,Justified,June,Mon,Summer,118,10,10,37,275089,high school,0,0,0,0,83,172,28,3
+Disease,Justified,June,Fri,Summer,118,10,10,37,275089,high school,0,0,0,0,83,172,28,2
+Disease,Justified,June,Wed,Summer,118,10,10,37,275089,high school,0,0,0,0,83,172,28,3
+Dental Consultation,Justified,Jul,Mon,Summer,118,10,10,37,264604,high school,0,0,0,0,83,172,28,4
+Medical Consultation,Justified,Jul,Wed,Summer,118,10,10,37,264604,high school,0,0,0,0,83,172,28,2
+Medical Consultation,Justified,Dec,Wed,Spring,118,13,18,50,261306,high school,1,1,0,0,98,178,31,2
+Medical Consultation,Justified,Apr,Thur,Winter,118,13,18,50,326452,high school,1,1,0,0,98,178,31,1
+Disease,Justified,May,Wed,Winter,118,13,18,50,378884,high school,1,1,0,0,98,178,31,24
+Disease,Justified,June,Wed,Winter,118,13,18,50,377550,high school,1,1,0,0,98,178,31,8
+Unjustified Absence,Unjustified,June,Mon,Winter,235,29,12,48,275089,high school,1,0,1,5,88,163,33,0
+Unjustified Absence,Unjustified,June,Mon,Winter,268,11,8,33,275089,graduate,0,0,0,0,79,178,25,0
+Medical Consultation,Justified,June,Tue,Winter,118,13,18,50,377550,high school,1,1,0,0,98,178,31,1
+Disease,Justified,June,Wed,Winter,118,13,18,50,377550,high school,1,1,0,0,98,178,31,80
+Disease,Justified,Jul,Wed,Summer,118,13,18,50,275312,high school,1,1,0,0,98,178,31,8
+Disease,Justified,Aug,Thur,Summer,118,13,18,50,265615,high school,1,1,0,0,98,178,31,3
+Medical Consultation,Justified,Aug,Thur,Summer,118,13,18,50,265615,high school,1,1,0,0,98,178,31,1
+Dental Consultation,Justified,Sept,Thur,Spring,118,13,18,50,294217,high school,1,1,0,0,98,178,31,1
+Dental Consultation,Justified,Oct,Tue,Spring,118,13,18,50,265017,high school,1,1,0,0,98,178,31,1
+Dental Consultation,Justified,Oct,Thur,Spring,118,13,18,50,265017,high school,1,1,0,0,98,178,31,1
+Medical Consultation,Justified,Oct,Thur,Spring,118,13,18,50,265017,high school,1,1,0,0,98,178,31,1
+Dental Consultation,Justified,Dec,Tue,Spring,118,13,18,50,236629,high school,1,1,0,0,98,178,31,1
+Unjustified Absence,Unjustified,Jan,Mon,Fall,118,13,18,50,330061,high school,1,1,0,0,98,178,31,4
+Medical Consultation,Justified,Mar,Fri,Winter,118,13,18,50,244387,high school,1,1,0,0,98,178,31,2
+Disease,Justified,Mar,Tue,Winter,118,13,18,50,244387,high school,1,1,0,0,98,178,31,3
+Disease,Justified,Mar,Wed,Winter,118,13,18,50,244387,high school,1,1,0,0,98,178,31,8
+Medical Consultation,Justified,Apr,Mon,Winter,118,13,18,50,239409,high school,1,1,0,0,98,178,31,1
+Disease,Justified,Apr,Wed,Winter,118,13,18,50,239409,high school,1,1,0,0,98,178,31,120
+Medical Consultation,Justified,June,Wed,Summer,118,13,18,50,253957,high school,1,1,0,0,98,178,31,2
+Medical Consultation,Justified,Jul,Fri,Summer,118,13,18,50,230290,high school,1,1,0,0,98,178,31,1
+Medical Consultation,Justified,Apr,Tue,Winter,118,13,18,50,246288,high school,1,1,0,0,98,178,31,3
+Disease,Justified,Apr,Thur,Winter,118,13,18,50,246288,high school,1,1,0,0,98,178,31,2
+Medical Consultation,Justified,May,Mon,Winter,118,13,18,50,237656,high school,1,1,0,0,98,178,31,2
+Mental/Behav.  Disorders,Justified,May,Tue,Winter,118,13,18,50,237656,high school,1,1,0,0,98,178,31,3
+"Injury, poisoning and certain other consequences of external causes  ",Justified,June,Thur,Winter,118,13,18,50,275089,high school,1,1,0,0,98,178,31,24
+"Injury, poisoning and certain other consequences of external causes  ",Justified,June,Thur,Winter,118,13,18,50,275089,high school,1,1,0,0,98,178,31,3
